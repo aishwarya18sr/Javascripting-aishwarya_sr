@@ -15,7 +15,7 @@ function isAmstrongNumber(num)
 
 function printAmstrongNumber(number)
 {
-    for(let i = 1; i <= number; i++)
+    for(let i = 0; i <= number; i++)
     {
         if(isAmstrongNumber(i))
         {
