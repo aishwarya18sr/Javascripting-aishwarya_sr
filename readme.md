@@ -1,9 +1,9 @@
 ## JavaScript
 ---
-> ### javascripting exercise :
----
- > <i> [Reference](https://github.com/workshopper/javascripting)</i>
----
+> ### Javascripting exercise :
+
+> <i> [Reference](https://github.com/workshopper/javascripting)</i>
+
 1. [introduction.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/introduction.js)
 
 2. [variables.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/variables.js) 
@@ -55,7 +55,7 @@ E.g armstrong - 153 = 1*1*1 + 5*5*5 + 3*3*3
 
     * This file contains the solution for this program. 
 
-    * [testcasePrintAmstrongNumbers.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/testcasePrintAmstrongNumbers.js) 
+    * [testcasePrintAmstrongNumbers.md](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/testcasePrintAmstrongNumbers.md) 
 
     * This file contains the success and failure testcases for each function of this program.
 
@@ -65,7 +65,7 @@ E.g armstrong - 153 = 1*1*1 + 5*5*5 + 3*3*3
 
     * This file contains the solution for this program. 
 
-    * [testcaseCheckWordsRepititionSentence.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/testcaseCheckWordsRepititionSentence.js) 
+    * [testcaseCheckWordsRepititionSentence.md](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/testcaseCheckWordsRepititionSentence.md) 
 
     * This file contains the success and failure testcases for each function of this program.
 
