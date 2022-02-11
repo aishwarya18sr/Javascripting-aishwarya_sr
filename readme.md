@@ -55,7 +55,7 @@ E.g armstrong - 153 = 1*1*1 + 5*5*5 + 3*3*3
 
     * This file contains the solution for this program. 
 
-    * [testcasePrintAmstrongNumbers.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/testcasePrintAmstrongNumbers.js) 
+    * [testcasePrintAmstrongNumbers.md](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/testcasePrintAmstrongNumbers.md) 
 
     * This file contains the success and failure testcases for each function of this program.
 
@@ -65,7 +65,7 @@ E.g armstrong - 153 = 1*1*1 + 5*5*5 + 3*3*3
 
     * This file contains the solution for this program. 
 
-    * [testcaseCheckWordsRepititionSentence.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/testcaseCheckWordsRepititionSentence.js) 
+    * [testcaseCheckWordsRepititionSentence.md](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/testcaseCheckWordsRepititionSentence.md) 
 
     * This file contains the success and failure testcases for each function of this program.
 
