@@ -1,8 +1,8 @@
 ## JavaScript
 ---
-### Javascripting exercise :
+> ### Javascripting exercise :
 
-<i> [Reference](https://github.com/workshopper/javascripting)</i>
+> <i> [Reference](https://github.com/workshopper/javascripting)</i>
 
 1. [introduction.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/introduction.js)
 
