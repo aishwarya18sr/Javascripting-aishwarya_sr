@@ -1,9 +1,9 @@
 ## JavaScript
 ---
-> ### javascripting exercise :
----
- > <i> [Reference](https://github.com/workshopper/javascripting)</i>
----
+### Javascripting exercise :
+
+<i> [Reference](https://github.com/workshopper/javascripting)</i>
+
 1. [introduction.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/introduction.js)
 
 2. [variables.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/variables.js) 
