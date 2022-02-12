@@ -1,28 +1,51 @@
-function isAmstrongNumber(num)
+function isAmstrongNumber(number)
 {
-    const actualNum = num;
+    if(! Number.isInteger(number))
+    {
+        throw new Error('Not a valid input type.');
+    }
+    if(number < 0)
+    {
+        throw new Error('Negative number is an invalid input.');
+    }
+    const actualNumber = number;
     let sum = 0;
     let lastDigit;
-    const numOfDigits = num.toString().length;
-    while(num>0)
+    const numberOfDigits = number.toString().length;
+    while(number>0)
     {
-        lastDigit = num % 10;
-        sum+= lastDigit**numOfDigits;
-        num = Math.floor(num / 10);
+        lastDigit = number % 10;
+        sum+= lastDigit**numberOfDigits;
+        number = Math.floor(number / 10);
     }
-    return (sum===actualNum)
+    return (sum===actualNumber)
 }
 
 function printAmstrongNumber(number)
 {
+    if(! Number.isInteger(number))
+    {
+        throw new Error('Not a valid input type.');
+    }
+    if(number < 0)
+    {
+        throw new Error('Negative number is an invalid input.');
+    }
+    const amstrongNumbers = new Set();
     for(let i = 0; i <= number; i++)
     {
         if(isAmstrongNumber(i))
         {
-            console.log(i);
+            amstrongNumbers.add(i)
         }
     }
+    return amstrongNumbers;
 }
 
-const N = 1000;
-printAmstrongNumber(N);
+module.exports = {
+    isAmstrongNumber,
+    printAmstrongNumber
+};
+
+// const N = 1000;
+//console.log(printAmstrongNumber(N));
