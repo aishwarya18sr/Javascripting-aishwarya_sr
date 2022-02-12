@@ -83,7 +83,19 @@ E.g armstrong - 153 = 1*1*1 + 5*5*5 + 3*3*3
 
 2. [templateStrings.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/templateStrings.js) 
 
-3. [arrowFunctions1js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/arrowFunctions1.js) 
+3. [arrowFunctions1.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/arrowFunctions1.js) 
+
+4. [arrowFunctionsThis.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/arrowFunctionsThis.js) 
+
+5. [destructuring.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/destructuring.js)  
+
+6. [spread.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/spread.js) 
+
+7. [rest.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/rest.js) 
+
+8. [defaultArguments1.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/defaultArguments1.js) 
+
+
 
 
 
