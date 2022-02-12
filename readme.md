@@ -57,7 +57,9 @@ E.g armstrong - 153 = 1*1*1 + 5*5*5 + 3*3*3
 
     * [testcasePrintAmstrongNumbers.md](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/testcasePrintAmstrongNumbers.md) 
 
-    * This file contains the success and failure testcases for each function of this program.
+    * [printAmstrongNumbers.test.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/printAmstrongNumbers.test.js) 
+
+    * These 2 files contain the success and failure testcases for each function of this program.
 
 2. Find out if there are repeating words in a given sentence. Make sure to do this in O(n) time. Create a function that takes a sentence as input
 
@@ -67,7 +69,21 @@ E.g armstrong - 153 = 1*1*1 + 5*5*5 + 3*3*3
 
     * [testcaseCheckWordsRepititionSentence.md](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/testcaseCheckWordsRepititionSentence.md) 
 
-    * This file contains the success and failure testcases for each function of this program.
+    * [checkWordsRepetitionSentence.test.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/checkWordsRepetitionSentence.test.js)
+
+    * These 2 files contain the success and failure testcases for each function of this program.
+
+---
+
+> ### Count Up to Version 6 of JavaScript exercise
+
+> <i> [Reference](https://github.com/domenic/count-to-6)</i>
+
+1. [hello.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/hello.js) 
+
+2. [templateStrings.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/templateStrings.js) 
+
+3. [arrowFunctions1js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/arrowFunctions1.js) 
 
 
 
