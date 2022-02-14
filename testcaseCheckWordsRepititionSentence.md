@@ -4,27 +4,27 @@
 > isWordsRepeating function  
 
 * <b> Failure Testcases :</b>
-    * Different datatypes (array / integers / decimal number / boolean)
-    * Larger strings (greater than limit size)
+    * should throw invalid input when number is given as input sentence
+    * should throw invalid input when boolean is given as input sentence 
+    * should throw invalid input when array is given as input sentence
+    * should throw invalid input when floating number is given as input sentence
+    * should throw invalid input when array is given as input delimiter
+    * should throw invalid input when boolean is given as input delimiter
+    * should throw size limit exceeded when large string is given as input sentence / delimiter
 * <b> Success Testcases :</b>  
-    * These words are repeating words
-    * These words are repeating
-    * Learning javaScript
-    * Strings separated by delimiters other than ' '
-    * String with a single space
-    * Strings which contains the repeated words with different case (upper / lower case change)
-        * Eg : This is a special keyword in this version
+    * should return true if a string with repeating words is given 
+    * should return false if a string with non-repeating words is given
 
 > checkWordsRepetition function  
 
 * <b> Failure Testcases :</b>
-    * Different datatypes (array / integers / decimal number / boolean)
-    * Larger strings (greater than limit size)
+    * should throw invalid input when number is given as input sentence
+    * should throw invalid input when boolean is given as input sentence
+    * should throw invalid input when array is given as input sentence
+    * should throw invalid input when floating number is given as input sentence 
+    * should throw invalid input when array is given as input delimiter 
+    * should throw invalid input when boolean is given as input delimiter
+    * should throw size limit exceeded when large string is given as input sentence / delimiter
 * <b> Success Testcases :</b>  
-    * These words are repeating words
-    * These words are repeating
-    * Learning javaScript
-    * Strings separated by delimiters other than ' '
-    * String with a single space
-    * Strings which contains the repeated words with different case (upper / lower case change)
-        * Eg : This is a special keyword in this version
+    * should return The sentence has repeating words if a string with repeating words is given 
+    * should return The sentence does not have repeating words if a string with non-repeating words is   given
