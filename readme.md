@@ -95,6 +95,10 @@ E.g armstrong - 153 = 1*1*1 + 5*5*5 + 3*3*3
 
 8. [defaultArguments1.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/defaultArguments1.js) 
 
+9. [defaultArguments2.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/defaultArguments2.js) 
+
+10. [taggedTemplateStrings.js](https://github.com/aishwarya18sr/Javascripting-aishwarya_sr/blob/master/taggedTemplateStrings.js) 
+
 
 
 
