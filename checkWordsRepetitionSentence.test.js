@@ -1,19 +1,19 @@
 const  words = require('../checkWordsRepetitionSentence');
 
 describe('isWordsRepeating function', function() {
-    it('should return true', function() {
+    it('should return true if a string with repeating words is given', function() {
         const result = words.isWordsRepeating('These words are repeating words',' ');
         expect(result).toBe(true);
     });
-    it('should return true', function() {
+    it('should return true if a string with repeating words is given', function() {
         const result = words.isWordsRepeating('This is the special keyword in this version',' ');
         expect(result).toBe(true);
     });
-    it('should return false', function() {
+    it('should return false if a string with non-repeating words is given', function() {
         const result = words.isWordsRepeating('These words are not repeating',' ');
         expect(result).toBe(false);
     });
-    it('should return true', function() {
+    it('should return true if a string with repeating words is given', function() {
         const result = words.isWordsRepeating('This,is,the,special,keyword,in,this,version',',');
         expect(result).toBe(true);
     });
@@ -55,19 +55,19 @@ describe('isWordsRepeating function', function() {
 });
 
 describe('checkWordsRepetition function', function() {
-    it('should return The sentence has repeating words', function() {
+    it('should return The sentence has repeating words if a string with repeating words is given', function() {
         const result = words.checkWordsRepetition('These words are repeating words',' ');
         expect(result).toBe('The sentence has repeating words');
     });
-    it('should return The sentence has repeating words', function() {
+    it('should return The sentence has repeating words if a string with repeating words is given', function() {
         const result = words.checkWordsRepetition('This is the special keyword in this version',' ');
         expect(result).toBe('The sentence has repeating words');
     });
-    it('should return The sentence does not have repeating words', function() {
+    it('should return The sentence does not have repeating words if a string with non-repeating words is given', function() {
         const result = words.checkWordsRepetition('These words are not repeating',' ');
         expect(result).toBe('The sentence does not have repeating words');
     });
-    it('should return true', function() {
+    it('should return The sentence has repeating words if a string with repeating words is given', function() {
         const result = words.checkWordsRepetition('This,is,the,special,keyword,in,this,version',',');
         expect(result).toBe('The sentence has repeating words');
     });
