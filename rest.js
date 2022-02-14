@@ -1,6 +1,6 @@
 function average(...args) {
-    var result = 0;
-    var count = 0;
+    let result = 0;
+    let count = 0;
     args.forEach(function (value) {
         result += value;
         count++;
