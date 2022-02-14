@@ -8,6 +8,10 @@ function isAmstrongNumber(number)
     {
         throw new Error('Negative number is an invalid input.');
     }
+    if(number > Number.MAX_SAFE_INTEGER)
+    {
+        throw new Error('Input limit exceeded the range');
+    }
     const actualNumber = number;
     let sum = 0;
     let lastDigit;
@@ -30,6 +34,10 @@ function printAmstrongNumber(number)
     if(number < 0)
     {
         throw new Error('Negative number is an invalid input.');
+    }
+    if(number > Number.MAX_SAFE_INTEGER)
+    {
+        throw new Error('Input limit exceeded the range');
     }
     const amstrongNumbers = new Set();
     for(let i = 0; i <= number; i++)
