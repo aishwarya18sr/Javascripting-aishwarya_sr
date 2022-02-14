@@ -3,23 +3,24 @@
 > isAmstrongNumber function  
 
 * <b> Failure Testcases :</b>
-    * Different datatypes (string / array / boolean)
-    * Larger numbers (greater than limit size)
+    * should throw invalid input when string is given as input 
+    * should throw invalid input when array is given as input
+    * should throw invalid input when boolean is given as input
+    * should throw invalid input when decimal number is given as input 
+    * should throw invalid input when negative number is given as input 
+    * should throw error when integer range exceeded
 * <b> Success Testcases :</b>  
-    * 0
-    * 153
-    * 370
-    * Negative numbers
-    * Decimal numbers
+    * should return true if 0 is passed as input 
+    * should return true if a positive number is passed as input
 
 > printAmstrongNumber function  
 
 * <b> Failure Testcases :</b>
-    * Different datatypes (string / array / boolean)
-    * Larger numbers (greater than limit size)
+    * should throw invalid input when string is given as input 
+    * should throw invalid input when array is given as input
+    * should throw invalid input when boolean is given as input 
+    * should throw invalid input when decimal number is given as input
+    * should throw invalid input when negative number is given as input
+    * should throw error when integer range exceeded 
 * <b> Success Testcases :</b>  
-    * 5
-    * 200
-    * 1000
-    * Negative numbers
-    * Decimal numbers
+    * should return amstrong numbers in the given range if a positive number is passed as input
