@@ -1,5 +1,5 @@
-function makeImportant(inputString, noExclamation = inputString.length) {
-    let resultString = inputString + '!'.repeat(noExclamation);
+function makeImportant(inputString, numOfExclamation = inputString.length) {
+    let resultString = inputString + '!'.repeat(numOfExclamation);
     return resultString;
 }
 
